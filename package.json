@@ -1,5 +1,5 @@
 {
-  "name": "@pixelunion/jquery-revealer",
+  "name": "jquery-revealer",
   "title": "jQuery Revealer",
   "description": "Animate elements to and from display: none!",
   "version": "3.0.0",
